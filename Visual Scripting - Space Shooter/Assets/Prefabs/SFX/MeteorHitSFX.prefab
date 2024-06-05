@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: -7423197910772262384}
   - component: {fileID: 1808071881702973041}
   m_Layer: 0
-  m_Name: MeteorHit
+  m_Name: MeteorHitSFX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
